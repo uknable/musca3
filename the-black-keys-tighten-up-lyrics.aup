@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="the-black-keys-tighten-up-lyrics_data" version="1.3.0" audacityversion="2.2.1" sel0="185.1569822998" sel1="204.6286801449" vpos="0" h="0.0000000000" zoom="31.2761632214" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="the-black-keys-tighten-up-lyrics_data" version="1.3.0" audacityversion="2.2.1" sel0="201.7191160994" sel1="201.7191160994" vpos="0" h="180.2331046841" zoom="31.2761632214" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags>
-		<tag name="ALBUM" value="Brothers"/>
+		<tag name="ARTIST" value="The Black Keys"/>
+		<tag name="description" value="All Rights Reserved To The Black Keys And All Members Of The Black Keys Made with Windows Movie Maker"/>
 		<tag name="TITLE" value="Tighten Up"/>
 		<tag name="comment" value="All Rights Reserved To The Black Keys And All Members Of The Black Keys Made with Windows Movie Maker"/>
-		<tag name="Software" value="Lavf57.56.101"/>
-		<tag name="ARTIST" value="The Black Keys"/>
-		<tag name="purl" value="https://www.youtube.com/watch?v=J1H2_VTGtk0"/>
-		<tag name="description" value="All Rights Reserved To The Black Keys And All Members Of The Black Keys Made with Windows Movie Maker"/>
 		<tag name="YEAR" value="20100820"/>
+		<tag name="purl" value="https://www.youtube.com/watch?v=J1H2_VTGtk0"/>
+		<tag name="Software" value="Lavf57.56.101"/>
+		<tag name="ALBUM" value="Brothers"/>
 	</tags>
 	<wavetrack name="the-black-keys-tighten-up-lyrics" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
@@ -265,19 +265,19 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="17" height="73" minimized="0" isSelected="1">
+	<labeltrack name="Label Track" numlabels="17" height="73" minimized="0" isSelected="0">
 		<label t="0.0000000000" t1="21.6129825528" title="intro"/>
 		<label t="21.6691201698" t1="39.6331576164" title="verse 1"/>
 		<label t="39.7173640419" t1="48.5309699141" title="chorus 1"/>
 		<label t="48.5309699141" t1="66.1146724152" title="verse 2"/>
-		<label t="66.1146724152" t1="68.3176409653" title="odd"/>
+		<label t="66.1146724152" t1="68.3176409653" title="odd 1"/>
 		<label t="68.3475487223" t1="85.9186228496" title=" chorus 2"/>
-		<label t="85.9186228496" t1="88.0931260891" title="odd"/>
+		<label t="85.9186228496" t1="88.0931260891" title="odd 2"/>
 		<label t="88.0931260891" t1="105.1919308870" title="verse 3"/>
 		<label t="105.1919308870" t1="113.9845694870" title="chorus 3"/>
 		<label t="113.9845694870" t1="131.6018199182" title="verse 4 "/>
 		<label t="131.6018199182" t1="133.7759996447" title="odd"/>
-		<label t="133.7759996447" t1="151.3932500759" title="chorus 5"/>
+		<label t="133.7759996447" t1="151.3932500759" title="chorus 4"/>
 		<label t="151.3932500759" t1="156.0613418417" title="odd"/>
 		<label t="156.0613418417" t1="165.7492309173" title="intro x"/>
 		<label t="165.7492309173" t1="185.1569822998" title="verse x"/>
